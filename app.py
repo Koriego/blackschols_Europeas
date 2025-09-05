@@ -82,9 +82,5 @@ if st.button("Calcular precio de opción"):
     - **Vega:** `{vega:.4f}`
     """)
 
----
 
-### ✅ `requirements.txt`
-
-Crea este archivo en el mismo directorio:
 
